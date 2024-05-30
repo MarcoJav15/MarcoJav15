@@ -38,8 +38,6 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me especial
 - **LinkedIn:** [Marco de Leon]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/marco-de-le%C3%B3n-7a4a4030a/))
 - **Twitter:** [@marco_dl15](https://x.com/marco_dl15)
 
-![Footer](https://your-image-url.com/footer-image.png)
-
 <style>
     @keyframes fadeIn {
         0% { opacity: 0; }
